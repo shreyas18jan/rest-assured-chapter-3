@@ -5,7 +5,7 @@ Blog Link - https://medium.com/@shreyas18jan/topic-rest-assured-chapter-3-2159b8
 
 ## Folder : status
 Deals with examples of using statusCode() and statusLine() method assertions
-here - [queryparam](src/main/java/org/example/assertions/status)
+here - [status](src/main/java/org/example/assertions/status)
 
 ## Folder : header
 Deals with examples of using header() method assertion
